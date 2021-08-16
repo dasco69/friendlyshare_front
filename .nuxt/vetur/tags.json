@@ -1,0 +1,95 @@
+{
+  "Content": {
+    "description": "Auto imported from components/Content.vue"
+  },
+  "DashboardLayout": {
+    "description": "Auto imported from components/dashboard/Layout.vue"
+  },
+  "TemplateModal": {
+    "description": "Auto imported from components/template/Modal.vue"
+  },
+  "DocsDoc": {
+    "description": "Auto imported from components/docs/Doc.vue"
+  },
+  "DocsSnippet": {
+    "description": "Auto imported from components/docs/Snippet.vue"
+  },
+  "DashboardUIButtonAlbums": {
+    "description": "Auto imported from components/dashboard/UI/ButtonAlbums.vue"
+  },
+  "DashboardUIButtonBase": {
+    "description": "Auto imported from components/dashboard/UI/ButtonBase.vue"
+  },
+  "DashboardUICard": {
+    "description": "Auto imported from components/dashboard/UI/Card.vue"
+  },
+  "DashboardUIInput": {
+    "description": "Auto imported from components/dashboard/UI/Input.vue"
+  },
+  "DashboardUIModalCreateAlbum": {
+    "description": "Auto imported from components/dashboard/UI/ModalCreateAlbum.vue"
+  },
+  "DashboardAlbumsDownloadFile": {
+    "description": "Auto imported from components/dashboard/albums/DownloadFile.vue"
+  },
+  "DashboardProviderOverlay": {
+    "description": "Auto imported from components/dashboard/provider/Overlay.vue"
+  },
+  "DashboardProvider": {
+    "description": "Auto imported from components/dashboard/provider/Provider.vue"
+  },
+  "DashboardSidenavigationHeader": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Header.vue"
+  },
+  "DashboardSidenavigation": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Index.vue"
+  },
+  "DashboardSidenavigationItem": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Item.vue"
+  },
+  "DashboardSidenavigationItems": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Items.vue"
+  },
+  "DashboardSidenavigationSection": {
+    "description": "Auto imported from components/dashboard/sidenavigation/Section.vue"
+  },
+  "DashboardTopnavigation": {
+    "description": "Auto imported from components/dashboard/topnavigation/Index.vue"
+  },
+  "DocsIconsFileIcon": {
+    "description": "Auto imported from components/docs/icons/FileIcon.vue"
+  },
+  "DocsIconsFolderIcon": {
+    "description": "Auto imported from components/docs/icons/FolderIcon.vue"
+  },
+  "DocsIconsVueIcon": {
+    "description": "Auto imported from components/docs/icons/VueIcon.vue"
+  },
+  "DashboardSidenavigationIconsAllApps": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/AllApps.vue"
+  },
+  "DashboardSidenavigationIconsAr": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Ar.vue"
+  },
+  "DashboardSidenavigationIconsDocumentation": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Documentation.vue"
+  },
+  "DashboardSidenavigationIconsGraphicDesign": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/GraphicDesign.vue"
+  },
+  "DashboardSidenavigationIconsIllustration": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Illustration.vue"
+  },
+  "DashboardSidenavigationIconsPhotography": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Photography.vue"
+  },
+  "DashboardSidenavigationIconsUpdates": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Updates.vue"
+  },
+  "DashboardSidenavigationIconsUx": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Ux.vue"
+  },
+  "DashboardSidenavigationIconsVideos": {
+    "description": "Auto imported from components/dashboard/sidenavigation/icons/Videos.vue"
+  }
+}

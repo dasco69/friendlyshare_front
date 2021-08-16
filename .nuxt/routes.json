@@ -1,0 +1,51 @@
+[
+  {
+    "name": "user-albums",
+    "path": "/user/albums",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/albums.vue",
+    "chunkName": "pages/user/albums",
+    "_name": "_4e7e456c"
+  },
+  {
+    "name": "user-chat",
+    "path": "/user/chat",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/chat.vue",
+    "chunkName": "pages/user/chat",
+    "_name": "_953faa40"
+  },
+  {
+    "name": "user-documentation",
+    "path": "/user/documentation",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/documentation.vue",
+    "chunkName": "pages/user/documentation",
+    "_name": "_58206562"
+  },
+  {
+    "name": "user-updates",
+    "path": "/user/updates",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/updates.vue",
+    "chunkName": "pages/user/updates",
+    "_name": "_5d52e772"
+  },
+  {
+    "name": "user-videos",
+    "path": "/user/videos",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/videos.vue",
+    "chunkName": "pages/user/videos",
+    "_name": "_207f96e0"
+  },
+  {
+    "name": "user-albums-id",
+    "path": "/user/:albums?/:id?",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/user/_albums/_id.vue",
+    "chunkName": "pages/user/_albums/_id",
+    "_name": "_72ae4f56"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/dasco/Documents/Projet_web/photo_entre_amis/friendlyshare_front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_394540d4"
+  }
+]
